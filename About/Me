@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="stylesheet" type="text/css" href="aboutme_style.css">
+		<link rel="stylesheet" media="screen" href="https://fontlibrary.org/face/bebusneuebold" type="text/css"/>
+		<title>Portfolio</title>
+		
+	</head>
+	<body>
+		<div id="header">
+			<h1>ABOUT ME</h1>
+			<div id="nav">
+				<ul>
+					<li><a href="" target="_blank">HOME</a></li>
+					<li><a href="" target="_blank">MODULE ASSIGNMENTS</a></li>
+					<li><a href="" target="_blank">COURSEWORK</a></li>
+					<li><a href="" target="_blank">ABOUT</a></li>
+					<li><a href="" target="_blank">ARTIFACTS</a></li>
+					<li><a href="" target="_blank">CREATIVE WORK</a></li>
+					<li><a href="" target="_blank">CONTACT</a></li>
+				</ul>
+			</div>
+		</div>
+		<div id="content">
+			<div id="feature">
+				<p></p>
+			</div>
+			<div class="article column1">
+			<img src="wednesday_picture.jpg" alt="Wednesday">
+			</div>
+			<div class="article column2">
+				<p>My Favorite Things To Do</p>
+				<p>Traveling</p>
+				<p>Draw & Paint</p>
+				<p>Hang Out with my Friends</p>
+				<p>Celebrate Halloween with my Friends</p>
+			</div>
+			<div class="article column3">
+				<p>My Academic Goals</p>
+				<p>Finish Year Up</p>
+				<p>Open my own Coffee Shop</p>
+				<p>Go to school for Architecture</p>
+			</div>
+		</div>
+		<div id="footer">
+			<p>&copy; Copyright 2011</p>
+		</div>
+	</body>
+</html>
